@@ -1,0 +1,11 @@
+{
+  "name": "template_portfolio_1wt_2022_2023",
+  "version": "1.0.0",
+  "description": "Portfolio 1WT 2022 - 2023",
+  "main": "index.js",
+  "scripts": {
+    "watch": "live-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
