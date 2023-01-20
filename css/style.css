@@ -22,6 +22,7 @@ section {
 p {
   font-size: 18px;
   margin: 5px 0 10px;
+  text-align: center;
 }
 .bold {
   font-weight: 700;
@@ -174,8 +175,6 @@ img {
   height: auto;
   display: block;
   margin: 0 auto;
-  background: url("../assets/svg/soap.svg") no-repeat top right;
-  background-size: contain;
 }
 .banner .banner--content .name {
   text-transform: uppercase;
@@ -553,14 +552,23 @@ blockquote p::after {
   display: block;
   margin: 20px 0;
 }
+#pricing .pricing--content .item {
+  text-align: center;
+}
+
 #pricing .pricing--content .item a {
-  padding: 10px 20px;
-  font-weight: 700;
-  text-transform: uppercase;
-  border: 1px solid #222;
-  text-decoration: none;
+  border: 1px solid #7f53ac;
+  border-radius: 4px;
+  padding: 10px 30px;
   color: #fff;
-  background: #222;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 1px;
+  -webkit-transition: all 0.8s ease-in-out;
+  transition: all 0.8s ease-in-out;
+  background-color: #0d8172;
+  background-image: linear-gradient(315deg, #0d8172 0%, #5f72be 74%);
 }
 #contact .contact-detail, #contact address {
   max-width: 800px;
