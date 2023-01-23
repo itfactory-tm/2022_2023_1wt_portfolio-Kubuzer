@@ -631,8 +631,8 @@ blockquote p::after {
   background-color: #0d8172;
 }
 .site-footer {
-  background-color: #222;
-  padding: 90px 15px 30px;
+  background-color: #111;
+  padding: 20px 15px 30px;
 }
 .site-footer .site-footer--content {
   max-width: 1600px;
@@ -651,7 +651,7 @@ blockquote p::after {
     justify-content: space-between;
     -webkit-box-align: start;
     -ms-flex-align: start;
-    align-items: flex-start;
+    align-items: baseline;
   }
 }
 .site-footer .site-footer--content .footer-left {
