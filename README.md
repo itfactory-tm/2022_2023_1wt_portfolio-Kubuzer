@@ -11,7 +11,7 @@
 | Name            | Jakub Rzeczkowski                                                       |
 | Email           | [r0944345@student.thomasmore.be](mailto:r0944345@student.thomasmore.be) |
 | Github Username | Kubuzer                                                                 |
-| Hosting         | [https://portfoliojakubr.netlify.app/](https://portfoliojakubr.netlify.app/)        |
+| Hosting         | [https://happyfreelancer.netlify.app/](https://happyfreelancer.netlify.app/)        |
 
 ## Installatie
 
